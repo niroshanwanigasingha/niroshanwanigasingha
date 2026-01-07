@@ -1,4 +1,4 @@
-<h2>Hi there 👋 I'am Sajith Niroshan</h2>
+<h2>Hi there 👋 I'am Niroshan Wanigasingha</h2>
 <h3>👨🏻‍💻 &nbsp;About Me</h3>
 <ul>
   <li>🌱 &nbsp;Founder and Owner of Sinlix Technologies.</li>
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" /></p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sajithniroshan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sajitha's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niroshanwanigasingha&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sajitha's Github Stats">
 </p>
 
 
