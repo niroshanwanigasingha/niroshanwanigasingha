@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" /></p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niroshanwanigasingha&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Niroshan's Github Stats">
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=niroshanwanigasingha&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Niroshan's Github Stats">-->
 </p>
 
 
