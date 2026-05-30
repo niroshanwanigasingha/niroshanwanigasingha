@@ -1,7 +1,7 @@
 <h2>Hi there 👋 I'am Niroshan Wanigasingha</h2>
 <h3>👨🏻‍💻 &nbsp;About Me</h3>
 <ul>
-  <li>🌱 &nbsp;Founder and Owner of Sinlix Technologies.</li>
+  <li>🌱 &nbsp;Founder and Owner of PCHub Solutions.</li>
   <li>🌱 &nbsp;Developing software solutions.</li>
   <li>🌱 &nbsp;Exploring new technologies.</li>
 </ul>
